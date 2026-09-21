@@ -1,0 +1,14 @@
+{
+  "name": "hack-f23e41c4-aviola",
+  "version": "1.0.0",
+  "description": "FAQ-бот репетиции хакатона — терминальный чат на 5 вопросов",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT"
+}
